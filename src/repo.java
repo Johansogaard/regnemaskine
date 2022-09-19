@@ -9,8 +9,9 @@ public class repo {
 
         System.out.println(a+ "+"+b+"="+(a+b));
         System.out.println(a+ "-"+b+"="+(a-b));
+        System.out.println(a+ "*"+b+"="+(a*b));
 
-        //TESTTESTETSTEST
+        //TESTTESTETSTESTfggg
 
         System.out.println("HEJEHEJEHEJEHEJE");
     }
